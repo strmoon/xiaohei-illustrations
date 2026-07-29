@@ -1,0 +1,20 @@
+{
+  "name": "xiaohei-illustrations",
+  "interface": {
+    "displayName": "小黑配图"
+  },
+  "plugins": [
+    {
+      "name": "xiaohei-illustrations",
+      "source": {
+        "source": "local",
+        "path": "./plugins/xiaohei-illustrations"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Creativity"
+    }
+  ]
+}

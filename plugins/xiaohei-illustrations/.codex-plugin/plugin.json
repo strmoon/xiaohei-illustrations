@@ -1,0 +1,28 @@
+{
+  "name": "xiaohei-illustrations",
+  "version": "0.1.0",
+  "description": "为中文文章设计并生成怪诞、清爽的小黑手绘正文配图。",
+  "author": {
+    "name": "x013"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "小黑配图",
+    "shortDescription": "为中文文章生成怪诞清爽的小黑手绘配图",
+    "longDescription": "分析中文文章的关键判断、流程与隐喻，规划配图位置，并生成纯白手绘、少量彩色批注的小黑 IP 正文配图。",
+    "developerName": "x013",
+    "category": "Creativity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "为这篇中文文章设计并生成小黑正文配图",
+      "分析这篇文章适合在哪些位置配图",
+      "把这个观点画成一张小黑手绘解释图"
+    ],
+    "brandColor": "#F97316",
+    "composerIcon": "./assets/xiaohei-icon.svg",
+    "logo": "./assets/xiaohei-icon.svg"
+  }
+}

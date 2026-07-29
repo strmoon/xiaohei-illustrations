@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">小黑配图</title>
+  <desc id="desc">一只白点眼睛的小黑握着橙色画笔</desc>
+  <rect width="256" height="256" rx="48" fill="#fff"/>
+  <path d="M64 79C75 51 105 38 137 43c31 4 55 25 58 56 3 29-9 58-35 73-26 16-66 14-88-9-21-22-20-57-8-84Z" fill="#111"/>
+  <circle cx="108" cy="99" r="9" fill="#fff"/>
+  <circle cx="151" cy="96" r="9" fill="#fff"/>
+  <circle cx="111" cy="101" r="3" fill="#111"/>
+  <circle cx="148" cy="98" r="3" fill="#111"/>
+  <path d="M105 177c-3 16-2 28 1 38M154 175c4 15 5 27 3 39" fill="none" stroke="#111" stroke-width="10" stroke-linecap="round"/>
+  <path d="M79 143c-13 8-20 17-24 29M178 139c14 5 23 12 30 23" fill="none" stroke="#111" stroke-width="9" stroke-linecap="round"/>
+  <path d="m185 153 33 34" fill="none" stroke="#f97316" stroke-width="13" stroke-linecap="round"/>
+  <path d="m214 185 8 19-19-8Z" fill="#ef4444" stroke="#111" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M45 202c38 10 86 10 132 1" fill="none" stroke="#f97316" stroke-width="7" stroke-linecap="round"/>
+</svg>
