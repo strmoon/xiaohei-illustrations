@@ -22,4 +22,21 @@
 - 分析这篇文章适合在哪些位置配图
 - 把这个观点画成一张小黑手绘解释图
 
+## 生成案例
+
+<table>
+  <tr>
+    <td width="50%"><img src="plugins/xiaohei-illustrations/skills/xiaohei-illustrations/assets/sol-limits-article-illustrations/01-stronger-engine.png" alt="更强引擎" /></td>
+    <td width="50%"><img src="plugins/xiaohei-illustrations/skills/xiaohei-illustrations/assets/sol-limits-article-illustrations/02-parallel-toolchain.png" alt="并行工具链" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="plugins/xiaohei-illustrations/skills/xiaohei-illustrations/assets/sol-limits-article-illustrations/03-average-hides-tail.png" alt="平均值掩盖长尾" /></td>
+    <td width="50%"><img src="plugins/xiaohei-illustrations/skills/xiaohei-illustrations/assets/sol-codex-quota-illustrations/01-deeper-work-costs-more.png" alt="更深入的工作成本更高" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="plugins/xiaohei-illustrations/skills/xiaohei-illustrations/assets/sol-codex-quota-illustrations/02-tools-keep-working.png" alt="工具持续工作" /></td>
+    <td width="50%"><img src="plugins/xiaohei-illustrations/skills/xiaohei-illustrations/assets/sol-codex-quota-illustrations/03-average-hides-the-tail.png" alt="平均值掩盖长尾" /></td>
+  </tr>
+</table>
+
 插件默认调用 `https://codex.apiz.ai/v1/images/generations`，使用 OpenAI 兼容协议。密钥优先从 `OPENAI_API_KEY` 读取，也支持 `CODEX_AUTH_FILE`、`CODEX_HOME/auth.json` 或 `~/.codex/auth.json`。
